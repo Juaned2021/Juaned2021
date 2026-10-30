@@ -20,9 +20,9 @@ School platform for admins, teachers and students: classes, schedules, assignmen
 
 ## Stack
 
-**Used in production:** React · JavaScript · TypeScript · Node.js · NestJS · PostgreSQL · Supabase · Prisma · Vite · Git/GitHub · Vercel · Render
-**Also used:** C# / ASP.NET Core · Entity Framework · Docker · Cloudinary
-**Currently learning:** Next.js (App Router) · tRPC
+- **Used in production:** React · JavaScript · TypeScript · Node.js · NestJS · PostgreSQL · Supabase · Prisma · Vite · Git/GitHub · Vercel · Render
+- **Also used:** C# / ASP.NET Core · Entity Framework · Docker · Cloudinary
+- **Currently learning:** Next.js (App Router) · tRPC
 
 ## What I care about
 - Clean data models and safe migrations
