@@ -4,8 +4,8 @@ Full-stack web developer from **Colombia** 🇨🇴. I build web apps with **Rea
 
 ## Featured projects
 
-### 🎵 [Music-RI](https://github.com/Juaned2021/music-ri) — *in production*
-Music system for bars: customers request songs by scanning a QR at their table, the venue manages the queue, and a TV plays the videos.
+### 🎵 [Music-RI](https://github.com/Juaned2021/music-ri) — *piloted in real bars*
+Music system for bars: customers request songs by scanning a QR at their table, the venue manages the queue, and a TV plays the videos. Tested with real venues, then paused due to music licensing issues.
 `NestJS` `TypeScript` `Prisma` `PostgreSQL (Supabase)` `React` `Vite` `JWT` · Vercel + Render
 - Multi-tenant schema with 14 migrations, RLS on Supabase, role-based access and a super admin panel.
 - Resilient queue that survives restarts, music rules per venue, autoplay recommendations, YouTube/Deezer integrations with caching.
@@ -20,7 +20,7 @@ School platform for admins, teachers and students: classes, schedules, assignmen
 
 ## Stack
 
-- **Used in production:** React · JavaScript · TypeScript · Node.js · NestJS · PostgreSQL · Supabase · Prisma · Vite · Git/GitHub · Vercel · Render
+- **Used in real projects:** React · JavaScript · TypeScript · Node.js · NestJS · PostgreSQL · Supabase · Prisma · Vite · Git/GitHub · Vercel · Render
 - **Also used:** C# / ASP.NET Core · Entity Framework · Docker · Cloudinary
 - **Currently learning:** Next.js (App Router) · tRPC
 
